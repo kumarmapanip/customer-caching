@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.UpdateCustomerPutApiSimulation",
+  "simulationId": "updatecustomerputapisimulation",
+  "start": 1629655380504,
+  "description": "hgcjg",
+  "scenarios": ["Insert Customer"],
+  "assertions": [
+
+  ]
+}

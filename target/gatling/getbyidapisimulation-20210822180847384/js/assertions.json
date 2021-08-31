@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetByIdApiSimulation",
+  "simulationId": "getbyidapisimulation",
+  "start": 1629655727384,
+  "description": "jgk",
+  "scenarios": ["Get Customer By Id"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.ProductApiSimulation",
+  "simulationId": "productapisimulation",
+  "start": 1629705309311,
+  "description": "khdkhf",
+  "scenarios": ["Product Management Api operations"],
+  "assertions": [
+
+  ]
+}

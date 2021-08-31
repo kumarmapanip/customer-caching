@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddCustomerSimulation",
+  "simulationId": "addcustomersimulation",
+  "start": 1629404997804,
+  "description": "api test",
+  "scenarios": ["Insert Customer"],
+  "assertions": [
+
+  ]
+}

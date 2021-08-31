@@ -1,0 +1,4 @@
+RUN	simulations.TestApiSimulation	testapisimulation	1629399525523	test api	3.6.1
+USER	Get all customer	START	1629399529920
+REQUEST		get all customer details	1629399529960	1629399533146	OK	 
+USER	Get all customer	END	1629399533697

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddCustomerSimulation",
+  "simulationId": "addcustomersimulation",
+  "start": 1629404916806,
+  "description": "test run cm api",
+  "scenarios": ["Insert Customer"],
+  "assertions": [
+
+  ]
+}

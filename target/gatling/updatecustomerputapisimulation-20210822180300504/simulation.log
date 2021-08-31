@@ -1,0 +1,91 @@
+RUN	simulations.UpdateCustomerPutApiSimulation	updatecustomerputapisimulation	1629655380504	hgcjg	3.6.1
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382456
+USER	Insert Customer	START	1629655382457
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382253
+USER	Insert Customer	START	1629655382474
+USER	Insert Customer	START	1629655382252
+USER	Insert Customer	START	1629655382496
+USER	Insert Customer	START	1629655382487
+USER	Insert Customer	START	1629655382463
+USER	Insert Customer	START	1629655382454
+USER	Insert Customer	START	1629655382465
+USER	Insert Customer	START	1629655382454
+USER	Insert Customer	START	1629655382463
+USER	Insert Customer	START	1629655382453
+USER	Insert Customer	START	1629655382456
+USER	Insert Customer	START	1629655382464
+REQUEST		Post customer	1629655382293	1629655382591	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382574	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382294	1629655382577	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382565	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382292	1629655382516	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382503	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382294	1629655382566	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382458	1629655382520	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382496	1629655382601	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382539	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382599
+USER	Insert Customer	END	1629655382601
+USER	Insert Customer	END	1629655382602
+USER	Insert Customer	END	1629655382604
+REQUEST		Post customer	1629655382293	1629655382603	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382474	1629655382605	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382606
+USER	Insert Customer	END	1629655382606
+REQUEST		Post customer	1629655382293	1629655382601	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382607
+USER	Insert Customer	END	1629655382608
+USER	Insert Customer	END	1629655382608
+USER	Insert Customer	START	1629655382252
+REQUEST		Post customer	1629655382464	1629655382608	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382466	1629655382609	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382608
+USER	Insert Customer	END	1629655382608
+REQUEST		Post customer	1629655382465	1629655382610	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382456	1629655382609	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382488	1629655382609	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382609
+REQUEST		Post customer	1629655382457	1629655382610	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382526	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382609
+USER	Insert Customer	END	1629655382610
+USER	Insert Customer	END	1629655382610
+USER	Insert Customer	END	1629655382610
+USER	Insert Customer	END	1629655382611
+USER	Insert Customer	END	1629655382611
+USER	Insert Customer	START	1629655382609
+USER	Insert Customer	END	1629655382611
+USER	Insert Customer	END	1629655382611
+REQUEST		Post customer	1629655382293	1629655382615	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382293	1629655382616	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382466	1629655382617	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382455	1629655382617	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382294	1629655382618	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382616
+USER	Insert Customer	END	1629655382617
+USER	Insert Customer	END	1629655382618
+USER	Insert Customer	END	1629655382619
+USER	Insert Customer	END	1629655382619
+REQUEST		Post customer	1629655382294	1629655382626	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382629
+REQUEST		Post customer	1629655382293	1629655382629	KO	status.find.is(200), but actually found 405
+REQUEST		Post customer	1629655382467	1629655382631	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382631
+REQUEST		Post customer	1629655382611	1629655382631	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382632
+USER	Insert Customer	END	1629655382633
+REQUEST		Post customer	1629655382464	1629655382634	KO	status.find.is(200), but actually found 405
+USER	Insert Customer	END	1629655382635

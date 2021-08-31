@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CustomerApiSimulation",
+  "simulationId": "customerapisimulation",
+  "start": 1629747815099,
+  "description": "",
+  "scenarios": ["Customer Management Api operations"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	simulations.AddCustomerSimulation	addcustomersimulation	1629404916806	test run cm api	3.6.1
+USER	Insert Customer	START	1629404922320
+REQUEST		Post customer	1629404922401	1629404923510	KO	status.find.is(200), but actually found 404
+USER	Insert Customer	END	1629404923574

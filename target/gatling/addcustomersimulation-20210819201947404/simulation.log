@@ -1,0 +1,4 @@
+RUN	simulations.AddCustomerSimulation	addcustomersimulation	1629404387404	cust test	3.6.1
+ERROR	Post customer: Failed to build request: Resource ./src/test/resources/bodies/addCustomer.josn not found 	1629404410392
+USER	Insert Customer	END	1629404410398
+USER	Insert Customer	START	1629404410323

@@ -1,0 +1,181 @@
+RUN	simulations.CustomerApiSimulation	customerapisimulation	1629747336349	hjksahddj	3.6.1
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372474
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372474
+USER	Customer Management Api operations	START	1629747372474
+USER	Customer Management Api operations	START	1629747372475
+USER	Customer Management Api operations	START	1629747372474
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372475
+USER	Customer Management Api operations	START	1629747372475
+USER	Customer Management Api operations	START	1629747372475
+USER	Customer Management Api operations	START	1629747372475
+USER	Customer Management Api operations	START	1629747372477
+USER	Customer Management Api operations	START	1629747372239
+USER	Customer Management Api operations	START	1629747372479
+USER	Customer Management Api operations	START	1629747372479
+USER	Customer Management Api operations	START	1629747372479
+USER	Customer Management Api operations	START	1629747372480
+REQUEST		Get all Customer details	1629747372480	1629747373523	OK	 
+REQUEST		Get all Customer details	1629747372315	1629747373523	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373523	OK	 
+REQUEST		Get all Customer details	1629747372475	1629747373595	OK	 
+REQUEST		Get all Customer details	1629747372477	1629747373595	OK	 
+REQUEST		Get all Customer details	1629747372477	1629747373595	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373596	OK	 
+REQUEST		Get all Customer details	1629747372315	1629747373596	OK	 
+REQUEST		Get all Customer details	1629747372315	1629747373597	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373598	OK	 
+REQUEST		Get all Customer details	1629747372479	1629747373598	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373598	OK	 
+REQUEST		Get all Customer details	1629747372477	1629747373599	OK	 
+REQUEST		Get all Customer details	1629747372477	1629747373600	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373600	OK	 
+REQUEST		Get all Customer details	1629747372315	1629747373601	OK	 
+REQUEST		Get all Customer details	1629747372475	1629747373640	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373640	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373640	OK	 
+REQUEST		Get all Customer details	1629747372475	1629747373640	OK	 
+REQUEST		Get all Customer details	1629747372479	1629747373641	OK	 
+REQUEST		Get all Customer details	1629747372315	1629747373641	OK	 
+REQUEST		Get all Customer details	1629747372478	1629747373642	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373643	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373642	OK	 
+REQUEST		Get all Customer details	1629747372474	1629747373643	OK	 
+REQUEST		Get all Customer details	1629747372316	1629747373643	OK	 
+REQUEST		Get all Customer details	1629747372476	1629747373644	OK	 
+REQUEST		Get all Customer details	1629747372314	1629747373644	OK	 
+REQUEST		Get all Customer details	1629747372479	1629747373648	OK	 
+REQUEST		Insert Customer	1629747373598	1629747373789	OK	 
+REQUEST		Insert Customer	1629747373641	1629747373792	OK	 
+REQUEST		Insert Customer	1629747373599	1629747373793	OK	 
+REQUEST		Insert Customer	1629747373600	1629747373795	OK	 
+REQUEST		Insert Customer	1629747373602	1629747373802	OK	 
+REQUEST		Insert Customer	1629747373642	1629747373805	OK	 
+REQUEST		Insert Customer	1629747373599	1629747373808	OK	 
+REQUEST		Insert Customer	1629747373591	1629747373809	OK	 
+REQUEST		Insert Customer	1629747373596	1629747373811	OK	 
+REQUEST		Insert Customer	1629747373596	1629747373811	OK	 
+REQUEST		Insert Customer	1629747373598	1629747373813	OK	 
+REQUEST		Insert Customer	1629747373599	1629747373813	OK	 
+REQUEST		Insert Customer	1629747373597	1629747373814	OK	 
+REQUEST		Insert Customer	1629747373600	1629747373815	OK	 
+REQUEST		Insert Customer	1629747373643	1629747373818	OK	 
+REQUEST		Insert Customer	1629747373596	1629747373818	OK	 
+REQUEST		Get by id	1629747373803	1629747373846	OK	 
+REQUEST		Get by id	1629747373790	1629747373851	OK	 
+REQUEST		Get by id	1629747373806	1629747373854	OK	 
+REQUEST		Insert Customer	1629747373644	1629747373911	OK	 
+REQUEST		Get by id	1629747373794	1629747373912	OK	 
+REQUEST		Insert Customer	1629747373642	1629747373912	OK	 
+REQUEST		Get by id	1629747373796	1629747373912	OK	 
+REQUEST		Insert Customer	1629747373591	1629747373915	OK	 
+REQUEST		Insert Customer	1629747373643	1629747373915	OK	 
+REQUEST		Insert Customer	1629747373591	1629747373919	OK	 
+REQUEST		Get by id	1629747373818	1629747373922	OK	 
+REQUEST		Insert Customer	1629747373643	1629747373923	OK	 
+REQUEST		Get by id	1629747373815	1629747373924	OK	 
+REQUEST		Insert Customer	1629747373595	1629747373926	OK	 
+REQUEST		Get by id	1629747373912	1629747373928	OK	 
+REQUEST		Get by id	1629747373816	1629747373938	OK	 
+REQUEST		Insert Customer	1629747373646	1629747373939	OK	 
+REQUEST		Get by id	1629747373818	1629747373939	OK	 
+REQUEST		Get by id	1629747373813	1629747373939	OK	 
+REQUEST		Insert Customer	1629747373646	1629747373940	OK	 
+REQUEST		Get by id	1629747373923	1629747373941	OK	 
+REQUEST		Insert Customer	1629747373645	1629747373942	OK	 
+REQUEST		Insert Customer	1629747373649	1629747373943	OK	 
+REQUEST		Insert Customer	1629747373641	1629747373943	OK	 
+REQUEST		Insert Customer	1629747373642	1629747373944	OK	 
+REQUEST		Insert Customer	1629747373643	1629747373945	OK	 
+REQUEST		Get by id	1629747373813	1629747373945	OK	 
+REQUEST		Get by id	1629747373813	1629747373948	OK	 
+REQUEST		Get by id	1629747373809	1629747373950	OK	 
+REQUEST		Get by id	1629747373793	1629747373950	OK	 
+REQUEST		Get by id	1629747373927	1629747373953	OK	 
+REQUEST		Get by id	1629747373944	1629747373959	OK	 
+REQUEST		Get by id	1629747373916	1629747373959	OK	 
+REQUEST		Get by id	1629747373814	1629747373960	OK	 
+REQUEST		Get by id	1629747373945	1629747373964	OK	 
+REQUEST		Get by id	1629747373940	1629747373965	OK	 
+REQUEST		Get by id	1629747373944	1629747373965	OK	 
+REQUEST		Get by id	1629747373911	1629747373966	OK	 
+REQUEST		Get by id	1629747373810	1629747373967	OK	 
+REQUEST		Get by id	1629747373916	1629747373967	OK	 
+REQUEST		Get by id	1629747373940	1629747373968	OK	 
+REQUEST		Get by id	1629747373945	1629747373968	OK	 
+REQUEST		Get by id	1629747373944	1629747373973	OK	 
+REQUEST		Get by id	1629747373920	1629747373974	OK	 
+REQUEST		Update Customer	1629747373969	1629747374713	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373975	1629747374709	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373967	1629747374715	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373923	1629747374727	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373968	1629747374615	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373942	1629747374717	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373940	1629747374608	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373913	1629747374481	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373847	1629747374709	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373950	1629747374605	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373929	1629747374723	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373945	1629747374606	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373950	1629747374729	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373939	1629747374610	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373856	1629747374722	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373924	1629747374608	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375121
+REQUEST		Update Customer	1629747373965	1629747375123	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375121
+USER	Customer Management Api operations	END	1629747375121
+USER	Customer Management Api operations	END	1629747375121
+REQUEST		Update Customer	1629747373973	1629747375127	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375121
+REQUEST		Update Customer	1629747373969	1629747375123	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373960	1629747375123	KO	status.find.is(200), but actually found 500
+REQUEST		Update Customer	1629747373949	1629747375125	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375121
+USER	Customer Management Api operations	END	1629747375122
+USER	Customer Management Api operations	END	1629747375122
+USER	Customer Management Api operations	END	1629747375122
+USER	Customer Management Api operations	END	1629747375124
+REQUEST		Update Customer	1629747373966	1629747375130	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375127
+REQUEST		Update Customer	1629747373961	1629747375131	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375128
+USER	Customer Management Api operations	END	1629747375130
+USER	Customer Management Api operations	END	1629747375131
+USER	Customer Management Api operations	END	1629747375132
+USER	Customer Management Api operations	END	1629747375133
+USER	Customer Management Api operations	END	1629747375133
+USER	Customer Management Api operations	END	1629747375134
+USER	Customer Management Api operations	END	1629747375134
+USER	Customer Management Api operations	END	1629747375135
+USER	Customer Management Api operations	END	1629747375137
+REQUEST		Update Customer	1629747373852	1629747375135	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375138
+USER	Customer Management Api operations	END	1629747375141
+USER	Customer Management Api operations	END	1629747375142
+REQUEST		Update Customer	1629747373941	1629747375140	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375143
+REQUEST		Update Customer	1629747373968	1629747375141	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375144
+REQUEST		Update Customer	1629747373959	1629747375144	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375145
+REQUEST		Update Customer	1629747373913	1629747375144	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375146
+REQUEST		Update Customer	1629747373966	1629747375938	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747375940
+REQUEST		Update Customer	1629747373954	1629747376939	KO	status.find.is(200), but actually found 500
+USER	Customer Management Api operations	END	1629747376941

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.UpdateCustomerPutApiSimulation",
+  "simulationId": "updatecustomerputapisimulation",
+  "start": 1629655313001,
+  "description": "hfsdhfio",
+  "scenarios": ["Insert Customer"],
+  "assertions": [
+
+  ]
+}

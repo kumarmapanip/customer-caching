@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddCustomerApiSimulation",
+  "simulationId": "addcustomerapisimulation",
+  "start": 1629655194541,
+  "description": "hgsakjhdsa",
+  "scenarios": ["Insert Customer"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	simulations.AddCustomerSimulation	addcustomersimulation	1629404997804	api test	3.6.1
+USER	Insert Customer	START	1629405000483
+REQUEST		Post customer	1629405000504	1629405019788	OK	 
+USER	Insert Customer	END	1629405019827
